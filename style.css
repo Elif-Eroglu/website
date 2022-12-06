@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3aVs6runyxvqicdk79DdosFHIkRv-Lew38Q&usqp=CAU);
+    background-size: cover;
+}
+.box{
+    width: 450px;
+    background: #6b5858;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color:antiquewhite;
+    }
+    .box img{
+        border-radius: 50%;
+        
+        cursor: pointer;
+    }  
+    .box h1{
+        font-size: 40px;
+        letter-spacing: 3px;  
+        font-weight: 100;
+    }
+    .box h5{
+        font-size: 20px;
+        font-weight: 100;
+        letter-spacing: 3px;
+    }
+    .box p{
+        text-align: justifys;
+    }
+    ul{
+        margin: 0;
+        padding: 0;
+    }
+    .box li{
+        display: inline-block;
+        margin: 6px;
+    }
+    .box li a{
+        color: antiquewhite;
+        font-size: 60px;
+    }
+    .ark{
+        text-align: center;
+    }
